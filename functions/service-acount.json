@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fireship-lessons-49c42",
+  "private_key_id": "3652fcadc65d9b4edd63843d536cbb5e2a68f28a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSxZB2cozOYCEw\nw0p20R32/4bTVC3T1C6pFb9FVie68lTmI5MVpGcwb6yHCj2kbhGaYY14pl6bWwWs\n83lOCr3oyAHKK0MCPnQ2iwHw+3LMcKECHMY5PC+Y2VU243803H/AC5GG8b6E1XJz\npdxYilHG54vPWLenfSl52l6gnNchLGI2K9pZ6rQyhOaiDP1/zyIB0xIat/VgqeId\nSkEoMknJri3b4ZK1rGNpfcNccVyecx7Z24RVhW+mLmuF1tmF4kddmuITWifsEjMP\ngJoapQKg8Ll1AhMRC5pcqiebN3gyJ4pcIz0mAuBhnqoCBXC+bYPc41KiW9EtOdex\nH2hRi0/lAgMBAAECggEADNQzn9IHGgSl4IbygFroHQGenjxQccVHdck6FClTT8Cy\nRDPEHxwbn8ocUTfhWqHMdn4bk01lEsWuicFkD8j9mC6cVUbe1EMi5bL+UkGr0h/E\n3RENS6yLJR2NX0LnmjsVl4XcvL74HrOzPLDKwaThp16ultdKjmpC3QTan6IMQhuK\nIDYkIaCOP+xGrdpsQwjkfNWhxRvfbWXQnAt/gqvmZtebB4DJudY+bbgKkPRuUEcs\n+fsv2AkAuB9VTT6IB/B5kZk/VnGiqyTfKR4yefPR9KCutPg4voUe/P0Ud3+9YDW9\n7c8hH8J5N/Ebhm4frFLyGb7j79/q2LKFS03RMI1mAQKBgQD6AHB8ePlvtDMRfpj6\nivt0OFf0b8bauxXFnN3Tgpuv7eUSg2sa9Zu05T0twcd01Cwu1XibHkpVGqH8k/hE\nzlT55RmzvsTjilwAXL1jjPKasSbom1Mhd/hSeaV1QkGkK6N6gLPxY5i6EKU3ulg1\nTbt+Y3pGaMxzuuyblkd21o4fgQKBgQDX1Cqgcc8Rw2dr4XkjZnk4fWySvgZwwRhA\nEH4rZ+NqYm1oKGgDbB/PcQiKPsNdw+RpCz4mK03LeL3ScgplUxVS/DThFOv2W3Ox\nD/zvDSHi7yt4kNj/aZfmpwJK/Hf8dbnlqGkjp//wYaOtOUJvlkNal5LpQ4RHx5GV\nUkjtKCniZQKBgQDxJOFbvxjjHY8w7ctDyDGaPgrg9bx7GYB7t77kmRPxU+fkvqze\nOVCy4XfsngD1eP8RQcnu3f3XLzRWvKf6PogK72imT3n8/WWW1926m6cbfYtJTSGX\no+/8JehqPbmxUIKE1IY9bdNQjmO/aFhTOiKDXBMCvW2QqBo4TXGreHNogQKBgCQp\nu564kw6R5DFSTT7eO694bInF50RbRlntqYZSWOuJZHWQV6VDJ61Vbi3jyE5ctVfY\nd2hj1xwhtgSd8Rn7KtaFxcJ1A/h6aE8hs6rGU4g3tNv1wTZClh4im6K+3MfjXeua\nJUvBKYQ4h/lNX9Fcpxp1zTrigjaYvM79Q5ThJut1AoGBAPVUtYCFr+g19qcUdppt\nXeeh/SZ1D6vRgfrHVcKr2Cqpiq7q9wYHNy0mq8WiT/Dxw6Rln+nlElO/SSC3Isrz\ndmbCSphupBBfwxu6ghT3QHhFWq9jEokEA3HuJnT8fxOS5xDVX7a84fjrWJnJZI00\nHzI2i+IYPoVf85j8qRroZ54o\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-naky3@fireship-lessons-49c42.iam.gserviceaccount.com",
+  "client_id": "104900429254483804250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-naky3%40fireship-lessons-49c42.iam.gserviceaccount.com"
+}
